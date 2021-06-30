@@ -1,0 +1,85 @@
+PODS:
+  - Alamofire (5.4.1)
+  - BigInt (5.2.0)
+  - BitcoinCore.swift (0.15.4):
+    - BigInt (~> 5.0)
+    - GRDB.swift (~> 4.0)
+    - HdWalletKit.swift (~> 1.5)
+    - HsToolKit.swift (~> 1.1.0)
+    - ObjectMapper (~> 3.0)
+    - OpenSslKit.swift (~> 1.0)
+    - RxSwift (~> 5.0)
+    - Secp256k1Kit.swift (~> 1.0)
+    - UIExtensions.swift (~> 1.1.1)
+  - BitcoinKit.swift (0.15.4):
+    - BigInt (~> 5.0)
+    - BitcoinCore.swift (~> 0.15)
+    - GRDB.swift (~> 4.0)
+    - HdWalletKit.swift (~> 1.5)
+    - Hodler.swift (~> 0.15)
+    - ObjectMapper (~> 3.0)
+    - OpenSslKit.swift (~> 1.0)
+    - RxSwift (~> 5.0)
+    - Secp256k1Kit.swift (~> 1.0)
+  - GRDB.swift (4.14.0):
+    - GRDB.swift/standard (= 4.14.0)
+  - GRDB.swift/standard (4.14.0)
+  - HdWalletKit.swift (1.5.1):
+    - OpenSslKit.swift (~> 1.0)
+    - Secp256k1Kit.swift (~> 1.0)
+  - Hodler.swift (0.15.4):
+    - BitcoinCore.swift (~> 0.15)
+    - OpenSslKit.swift (~> 1.0)
+    - Secp256k1Kit.swift (~> 1.0)
+  - HsToolKit.swift (1.1.0):
+    - Alamofire (~> 5.0)
+    - ObjectMapper (~> 3.0)
+    - RxSwift (~> 5.0)
+  - MnemonicSwift (2.0.0)
+  - ObjectMapper (3.5.3)
+  - OpenSslKit.swift (1.2.2)
+  - RxSwift (5.1.1)
+  - Secp256k1Kit.swift (1.1)
+  - UIExtensions.swift (1.1.1)
+
+DEPENDENCIES:
+  - BitcoinCore.swift
+  - BitcoinKit.swift
+  - MnemonicSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BigInt
+    - BitcoinCore.swift
+    - BitcoinKit.swift
+    - GRDB.swift
+    - HdWalletKit.swift
+    - Hodler.swift
+    - HsToolKit.swift
+    - MnemonicSwift
+    - ObjectMapper
+    - OpenSslKit.swift
+    - RxSwift
+    - Secp256k1Kit.swift
+    - UIExtensions.swift
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  BigInt: f668a80089607f521586bbe29513d708491ef2f7
+  BitcoinCore.swift: 862e87df27ceb19fe3e1b5bb81a09712f0562e2c
+  BitcoinKit.swift: 2476aa6a594ea0355791e117120eb458ed8d662f
+  GRDB.swift: 8cc3ab7c8b8b4ac1761deb8dca4b51c1c9d429f8
+  HdWalletKit.swift: 30b1ab08c736422eeefe346369ced89574e2ec00
+  Hodler.swift: d0fe42eec0dc743fde527325c5284187a4dec073
+  HsToolKit.swift: d47ef3e8c507a6e980f2f6d819c5b0cf05845910
+  MnemonicSwift: 36384fc6b2640d93df9fe9fb60a8da7957cec36d
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  OpenSslKit.swift: 0e2194853fd9ce42006cf18c89743331406a10a9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  Secp256k1Kit.swift: 322a66c4b3e95e96a397d73d45ad4d79af991bab
+  UIExtensions.swift: 3ed084c0343ddd0f86c7c558d37759e1fd7d5778
+
+PODFILE CHECKSUM: 8847c7c9eb97d5285cc8378e36dcd5772fa81986
+
+COCOAPODS: 1.10.1

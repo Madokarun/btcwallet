@@ -1,0 +1,6 @@
+framework module MnemonicSwift {
+  umbrella header "MnemonicSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

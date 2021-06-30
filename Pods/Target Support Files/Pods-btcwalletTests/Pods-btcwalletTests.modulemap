@@ -1,0 +1,6 @@
+framework module Pods_btcwalletTests {
+  umbrella header "Pods-btcwalletTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

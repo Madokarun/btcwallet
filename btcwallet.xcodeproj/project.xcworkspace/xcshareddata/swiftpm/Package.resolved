@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CodeScanner",
+        "repositoryURL": "https://github.com/rajubd49/CodeScanner",
+        "state": {
+          "branch": null,
+          "revision": "9d902dec616bd70b1a2a1b1e6d821c10c392ba9f",
+          "version": "1.0.6"
+        }
+      },
+      {
+        "package": "Introspect",
+        "repositoryURL": "https://github.com/siteline/SwiftUI-Introspect.git",
+        "state": {
+          "branch": null,
+          "revision": "36ecf80429d00a4cd1e81fbfe4655b1d99ebd651",
+          "version": "0.1.2"
+        }
+      },
+      {
+        "package": "SwiftUIRefresh",
+        "repositoryURL": "https://github.com/timbersoftware/SwiftUIRefresh.git",
+        "state": {
+          "branch": null,
+          "revision": "fa8fac7b5eb5c729983a8bef65f094b5e0d12014",
+          "version": "0.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
